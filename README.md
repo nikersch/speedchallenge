@@ -1,4 +1,4 @@
-Welcome to the comma.ai Programming Challenge!
+Welcome to your Programming Challenge!
 ======
 
 Your goal is to predict the speed of a car from a video.
@@ -10,15 +10,11 @@ Your goal is to predict the speed of a car from a video.
 Deliverable
 -----
 
-Your deliverable is test.txt. E-mail it to givemeajob@comma.ai, or if you think you did particularly well, e-mail it to George.
+Your deliverable is test.txt. 
 
 Evaluation
 -----
 
 We will evaluate your test.txt using mean squared error. <10 is good. <5 is better. <3 is heart.
 
-Twitter
-------
-
-<a href="https://twitter.com/comma_ai">Follow us!</a>
 
